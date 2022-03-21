@@ -1,0 +1,9 @@
+name: 'Beginning DevOps - CI Tools'
+description: 'GitHub Action CI Tools'
+author: beginning-devops
+branding:
+  icon: 'cloud'
+  color: 'blue'
+runs:
+  using: docker
+  image: Dockerfile
